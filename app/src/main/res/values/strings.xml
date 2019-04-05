@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="title_activity_cadatro_natacao">cadatroNatacao</string>
+    <string-array name="Operadoras">
+        <item>Vivo</item>
+        <item>Tim</item>
+        <item>Oi</item>
+    </string-array>
+</resources>
